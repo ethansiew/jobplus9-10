@@ -4,7 +4,6 @@
 * [leeboyjcc](https://github.com/leeboyjcc)
 * [louix] (https://github.com/louixid)
 * [KRzhao](https://github.com/Nuonzhao)
-* [eric_zhao](https://github.com/174987598)
 
 
 
